@@ -1,3 +1,6 @@
+#config secrets
+config/secrets.js
+
 # Logs
 logs
 *.log
