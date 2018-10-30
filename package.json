@@ -11,5 +11,8 @@
     "url": "git@github.com:superalloy/weather-node.git"
   },
   "author": "Jake Huffman",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
 }
